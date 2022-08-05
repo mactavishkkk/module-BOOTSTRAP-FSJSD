@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url("../img/background-img.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+}
+
+.container1 {
+  width: 600px;
+  height: auto;
+}
+
+.img {
+  padding: 20px;
+  width: 50vh;
+  height: auto;
+}
+
+.name {
+  font-size: large;
+  font-family: "Courier New";
+  color: white;
+}
+
+.radio {
+  font-size: large;
+  font-family: "Courier New";
+  color: white;
+}
+
+.swits {
+  font-size: large;
+  font-family: "Courier New";
+  color: white;
+}
+
+.checkbox {
+  font-size: large;
+  font-family: "Courier New";
+  color: white;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  font-size: large;
+  font-family: "Courier New";
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=style.css.map */
